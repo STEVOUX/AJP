@@ -308,6 +308,7 @@
         <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148028463353938/Fadhil.jpg?ex=68ac52de&is=68ab015e&hm=f95eea1b35c07376d583fddba0aaf60f19eac2fc78ff093746c61e21b1b44433" alt="Fadhil" data-origin="starter">
         <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148341496975440/a32e85fca033a11b9526978f958478b1.jpg?ex=68ac5329&is=68ab01a9&hm=aa6a6043bfa03179aded5cbb3feaf85d2ab30c4a656860e4b5628418016dcf1e" alt="Steve Shine" data-origin="starter">
         <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409150870922203278/poster.jpg?ex=68ac5584&is=68ab0404&hm=7b9fd4c97f0315627acb5af602c6d14fbf1b4d9ab3f4c6d502e5594fe95f2be3" alt="Poster 07-08-2025" data-origin="starter">
+        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409153797858529424/WhatsApp_Image_2025-08-24_at_18.03.20_de85a2c7.jpg?ex=68ac583e&is=68ab06be&hm=cec4ce3b08e7f95577387b25b5108eb5baa0db30b72e0bbe333dc1997a01db6f">
       </div>
     </div>
   </section>

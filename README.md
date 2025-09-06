@@ -228,7 +228,7 @@
 
       <div class="grid cols-3">
         <article class="card leader-card" style="padding:12px">
-          <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409146095195652127/Ajp_2.jpg?ex=68ac5111&is=68aaff91&hm=1f751725285f077453e4d4f787b4475dd9c625e1e2e401402bc28647cdc7e82d&" alt="Antony Jose Padammattumal">
+          <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899957596979245/Ajp_2.jpg?ex=68bd9c72&is=68bc4af2&hm=8103df4891e22d6a085a7d876d9156fdc203980363eef9ab039f301b1a317185&" alt="Antony Jose Padammattumal">
           <div>
             <h4>Antony Jose Padammattumal</h4>
             <p class="muted">Leader • Founder (The Beard)</p>
@@ -237,7 +237,7 @@
         </article>
 
         <article class="card leader-card" style="padding:12px">
-          <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148028463353938/Fadhil.jpg?ex=68ac52de&is=68ab015e&hm=f95eea1b35c07376d583fddba0aaf60f19eac2fc78ff093746c61e21b1b44433" alt="Fadhil MS">
+          <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899958125592617/Fadhil.jpg?ex=68bd9c73&is=68bc4af3&hm=bb300829357ef8bcceb172b0dd2499d510ad1f6f9eeaed5c5179092c51f7247f&" alt="Fadhil MS">
           <div>
             <h4>Fadhil MS</h4>
             <p class="muted">Co-Leader • Main Supporter</p>
@@ -246,10 +246,10 @@
         </article>
 
         <article class="card leader-card" style="padding:12px">
-          <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148341496975440/a32e85fca033a11b9526978f958478b1.jpg?ex=68ac5329&is=68ab01a9&hm=aa6a6043bfa03179aded5cbb3feaf85d2ab30c4a656860e4b5628418016dcf1e" alt="Steve Shine">
+          <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899956892467372/a32e85fca033a11b9526978f958478b1.jpg?ex=68bd9c72&is=68bc4af2&hm=e1647a55b4b6e6d776c7f41aff96f64f58343d44b1992e5d5fc773cc5aa02790&" alt="Steve Shine">
           <div>
             <h4>Steve Shine</h4>
-            <p class="muted">Supporter • Webmaster</p>
+            <p class="muted">Supporter • God</p>
           </div>
         </article>
       </div>
@@ -303,12 +303,12 @@
 
       <div class="gallery" id="galleryGrid" aria-live="polite">
         <!-- Preloaded -->
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409146094918701076/AJP_1.jpg?ex=68ac5111&is=68aaff91&hm=e72f4ef6b2efb953a57dff32022d298921d98c1882f012a114161066bff753e1&" alt="AJP banner" data-origin="starter">
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409146095195652127/Ajp_2.jpg?ex=68ac5111&is=68aaff91&hm=1f751725285f077453e4d4f787b4475dd9c625e1e2e401402bc28647cdc7e82d&" alt="Leader Antony" data-origin="starter">
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148028463353938/Fadhil.jpg?ex=68ac52de&is=68ab015e&hm=f95eea1b35c07376d583fddba0aaf60f19eac2fc78ff093746c61e21b1b44433" alt="Fadhil" data-origin="starter">
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409148341496975440/a32e85fca033a11b9526978f958478b1.jpg?ex=68ac5329&is=68ab01a9&hm=aa6a6043bfa03179aded5cbb3feaf85d2ab30c4a656860e4b5628418016dcf1e" alt="Steve Shine" data-origin="starter">
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409150870922203278/poster.jpg?ex=68ac5584&is=68ab0404&hm=7b9fd4c97f0315627acb5af602c6d14fbf1b4d9ab3f4c6d502e5594fe95f2be3" alt="Poster 07-08-2025" data-origin="starter">
-        <img src="https://cdn.discordapp.com/attachments/1361326986131149063/1409153797858529424/WhatsApp_Image_2025-08-24_at_18.03.20_de85a2c7.jpg?ex=68ac583e&is=68ab06be&hm=cec4ce3b08e7f95577387b25b5108eb5baa0db30b72e0bbe333dc1997a01db6f">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899957596979245/Ajp_2.jpg?ex=68bd9c72&is=68bc4af2&hm=8103df4891e22d6a085a7d876d9156fdc203980363eef9ab039f301b1a317185&">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899958125592617/Fadhil.jpg?ex=68bd9c73&is=68bc4af3&hm=bb300829357ef8bcceb172b0dd2499d510ad1f6f9eeaed5c5179092c51f7247f&" alt="Leader Antony" data-origin="starter">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899956892467372/a32e85fca033a11b9526978f958478b1.jpg?ex=68bd9c72&is=68bc4af2&hm=e1647a55b4b6e6d776c7f41aff96f64f58343d44b1992e5d5fc773cc5aa02790&" alt="Fadhil" data-origin="starter">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899958456815798/poster.jpg?ex=68bd9c73&is=68bc4af3&hm=84902954072ef65e383af85c22c774d95912ff28ebe54f5f28700f2ca26d7490&" alt="Steve Shine" data-origin="starter">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899958817521726/WhatsApp_Image_2025-08-24_at_18.03.20_de85a2c7.jpg?ex=68bd9c73&is=68bc4af3&hm=0ce10e35bef2dce5974f8f86dbb7c47c08f7450233c22ed280c9a7894134409b&" alt="Poster 07-08-2025" data-origin="starter">
+        <img src="https://cdn.discordapp.com/attachments/1340517477289037824/1413899957269827665/AJP_1.jpg?ex=68bd9c72&is=68bc4af2&hm=e081923218d9827d3dce9bff66b8b4481ee8b133f795842732da60f6979d4ab0&">
       </div>
     </div>
   </section>
@@ -466,7 +466,7 @@
             body: "Our dearest leader went for participating in school election. (Poster attached)",
             author: "AJP Office",
             ts: new Date('2025-08-07T10:00:00').getTime(),
-            image: "https://cdn.discordapp.com/attachments/1361326986131149063/1409150870922203278/poster.jpg?ex=68ac5584&is=68ab0404&hm=7b9fd4c97f0315627acb5af602c6d14fbf1b4d9ab3f4c6d502e5594fe95f2be3"
+            image: "https://cdn.discordapp.com/attachments/1340517477289037824/1413899958456815798/poster.jpg?ex=68bd9c73&is=68bc4af3&hm=84902954072ef65e383af85c22c774d95912ff28ebe54f5f28700f2ca26d7490&"
           },
           {
             id: crypto.randomUUID ? crypto.randomUUID() : String(Date.now()+2),
